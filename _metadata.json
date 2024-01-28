@@ -1,0 +1,46 @@
+{
+  "hash": "116dc7ad",
+  "configHash": "2f08d6dc",
+  "lockfileHash": "37d0f01e",
+  "browserHash": "8e3bc055",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "7a212a83",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "e17298b9",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "1a624276",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4c094d95",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "2a64bcb1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-MCEUSTYS": {
+      "file": "chunk-MCEUSTYS.js"
+    },
+    "chunk-S2TLTWWO": {
+      "file": "chunk-S2TLTWWO.js"
+    }
+  }
+}
